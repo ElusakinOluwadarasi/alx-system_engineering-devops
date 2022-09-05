@@ -1,1 +1,2 @@
-VimCrypt~03!$^˜ŠÅ\_ˆ¬Ñá»D¼‹T%u—íÍ©L©…‹J‚ó¢Ÿô‚TVªFî49¥
+#!/bin/bash
+grep -iv bin /etc/passwd
